@@ -51,9 +51,23 @@ nameBtn.addEventListener("click", () => {
         nameList.innerText = "";
 
         for(let i = 0; i < nameArray.length; i++){
-            let listItem = document.createElement('ul');
-            listItem.textContent = `${nameArray[i].firstName} ${nameArray[i].lastName} ${nameArray[i].codeStack} ${nameArray[i].email}`
+            let listItem = document.createElement('p');
+            listItem.textContent = `Name: ${nameArray[i].firstName} ${nameArray[i].lastName}`
+
+            let listItem2 = document.createElement('p');
+            listItem2.textContent = `CodeStack Email: ${nameArray[i].codeStack}`
+
+            let listItem3 = document.createElement('p');
+            listItem3.textContent = `Email: ${nameArray[i].email}`
+
+            let listItem4 = document.createElement('hr');
+            listItem4.textContent = ` `
+            
             nameList.appendChild(listItem);
+            nameList.appendChild(listItem2);
+            nameList.appendChild(listItem3);
+            nameList.appendChild(listItem4);
+
         }
     })
 });
