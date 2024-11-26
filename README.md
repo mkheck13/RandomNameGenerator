@@ -6,7 +6,7 @@
 
 **Date**: 11/26/24
 
-**Github**:
+**Github**: https://github.com/mkheck13/RandomNameGenerator
 
 ### Peer Review:
 
