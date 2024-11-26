@@ -2,135 +2,201 @@
     "names": [
         {
             "firstName": "Mike",
-            "lastName" : "Heckerman"
+            "lastName" : "Heckerman",
+            "codeStack" : "mheckerman@codestack.co",
+            "email": "mkheck13@gmail.com"
         },
         {
             "firstName": "Roy",
-            "lastName" : "Cade III"
+            "lastName" : "Cade III",
+            "codeStack" : "rcade@codestack.co",
+            "email": "roytreslll@gmail.com"
         },
         {
             "firstName": "Santiago",
-            "lastName" : "Montanez"
+            "lastName" : "Montanez",
+            "codeStack" : "smontanez@codestack.co",
+            "email": "santiagomm44@gmail.com"
         },
         {
             "firstName": "Chainarung",
-            "lastName" : "Dechyothin"
+            "lastName" : "Dechyothin",
+            "codeStack" : "cdechyothin@codestack.co",
+            "email": "cdechyothin@gmail.com"
         },
         {
             "firstName": "Mason",
-            "lastName" : "Quilon"
+            "lastName" : "Quilon",
+            "codeStack" : "mquilon@codestack.co",
+            "email": "Quilonmason@gmail.com"
         },
         {
             "firstName": "Darryl",
-            "lastName" : "Patton"
+            "lastName" : "Patton",
+            "codeStack" : "DPatton@codestack.co",
+            "email": "DLamarPatton@gmail.com"
         },
         {
             "firstName": "Juan",
-            "lastName" : "Heredia"
+            "lastName" : "Heredia",
+            "codeStack" : "jheredia@codestack.co",
+            "email": "madnes0205@gmail.com"
         },
         {
             "firstName": "Brock",
-            "lastName" : "Spacek"
+            "lastName" : "Spacek",
+            "codeStack" : "bspacek@codestack.co",
+            "email": "brockspacek1@gmail.com"
         },
         {
             "firstName": "Kassandra",
-            "lastName" : "Spacek"
+            "lastName" : "Spacek",
+            "codeStack" : "kspacek@codestack.co",
+            "email": "kassiespacek101@gmail.com"
         },
         {
             "firstName": "Ian",
-            "lastName" : "Chesley"
+            "lastName" : "Chesley",
+            "codeStack" : "ichesley@codestack.co",
+            "email": "ianchesley@yahoo.com"
         },
         {
             "firstName": "Alexander",
-            "lastName" : "Soria"
+            "lastName" : "Soria",
+            "codeStack" : "asoria@codestack.co",
+            "email": "yoda4115@gmail.com"
         },
         {
             "firstName": "Anthony",
-            "lastName" : "Duran"
+            "lastName" : "Duran",
+            "codeStack" : "aduran@codestack.co",
+            "email": "anthonyaduran6@gmail.com"
         },
         {
             "firstName": "Andrew",
-            "lastName" : "Sayasing"
+            "lastName" : "Sayasing",
+            "codeStack" : "asayasing@codestack.co",
+            "email": "gettosheep56@gmail.com"
         },
         {
             "firstName": "Robert",
-            "lastName" : "Grijalva"
+            "lastName" : "Grijalva",
+            "codeStack" : "rgrijalva@codestack.co",
+            "email": "grijrob07@gmail.com"
         },
         {
             "firstName": "Nolan",
-            "lastName" : "Parker"
+            "lastName" : "Parker",
+            "codeStack" : "NParker@codestack.co",
+            "email": "nolanrparker@gmail.com"
         },
         {
             "firstName": "Thao",
-            "lastName" : "Vang"
+            "lastName" : "Vang",
+            "codeStack" : "tvang@codestack.co",
+            "email": "vangt39@gmail.com"
         },
         {
             "firstName": "Aaron",
-            "lastName" : "Robinson"
+            "lastName" : "Robinson",
+            "codeStack" : "arobinson@codestack.co",
+            "email": "aarmon5@gmail.com"
         },
         {
             "firstName": "David",
-            "lastName" : "Monterrosa"
+            "lastName" : "Monterrosa",
+            "codeStack" : "dmonterrosa@codestack.co",
+            "email": "dmonterrosa99@gmail.com"
         },
         {
             "firstName": "Karen-anne",
-            "lastName" : "Cadavos"
+            "lastName" : "Cadavos",
+            "codeStack" : "kcadavos@codestack.co",
+            "email": "karencadavos@gmail.com"
         },
         {
             "firstName": "Tanush",
-            "lastName" : "Kumar"
+            "lastName" : "Kumar",
+            "codeStack" : "tkumar@codestack.co",
+            "email": "nush8653@gmail.com"
         },
         {
             "firstName": "Bowen",
-            "lastName" : "Henry"
+            "lastName" : "Henry",
+            "codeStack" : "bhenry@codestack.co",
+            "email": "bhenry3145@gmail.com"
         },
         {
             "firstName": "Alan",
-            "lastName" : "Batres"
+            "lastName" : "Batres",
+            "codeStack" : "abatres@codestack.co",
+            "email": "alanbatres328@gmail.com"
         },
         {
             "firstName": "Gianpaolo",
-            "lastName" : "Reinares"
+            "lastName" : "Reinares",
+            "codeStack" : "greinares@codestack.co",
+            "email": "gprcards@gmail.com"
         },
         {
             "firstName": "Josue",
-            "lastName" : "Rosales"
+            "lastName" : "Rosales",
+            "codeStack" : "jrosales@codestack.co",
+            "email": "Josue04Rosales@gmail.com"
         },
         {
             "firstName": "Andrie",
-            "lastName" : "Amor"
+            "lastName" : "Amor",
+            "codeStack" : "aamor@codedstack.co",
+            "email": "amorandrie5@gmail.com"
         },
         {
             "firstName": "Bronel",
-            "lastName" : "Lazar"
+            "lastName" : "Lazar",
+            "codeStack" : "blazar@codestack.co",
+            "email": "bronellazar@gmail.com"
         },
         {
             "firstName": "Angel",
-            "lastName" : "Cuevas"
+            "lastName" : "Cuevas",
+            "codeStack" : "acuevas@codestack.co",
+            "email": "aocuevas123@gmail.com"
         },
         {
             "firstName": "Chris",
-            "lastName" : "Wells-Hott"
+            "lastName" : "Wells-Hott",
+            "codeStack" : "cwellshott@codestack.co",
+            "email": "cwellshott@gmail.com"
         },
         {
             "firstName": "Charles",
-            "lastName" : "Orr"
+            "lastName" : "Orr",
+            "codeStack" : "corr@codestack.co",
+            "email": "Chas2687@gmail.com"
         },
         {
             "firstName": "Bryan",
-            "lastName" : "Stewart"
+            "lastName" : "Stewart",
+            "codeStack" : "bstewart@codestack.co",
+            "email": "bstewart@sjcoe.net"
         },
         {
             "firstName": "Isaiah",
-            "lastName" : "Ferguson"
+            "lastName" : "Ferguson",
+            "codeStack" : "iferguson@codestack.co",
+            "email": "iferguson@sjcoe.net"
         },
         {
             "firstName": "Ken",
-            "lastName" : "Martinez"
+            "lastName" : "Martinez",
+            "codeStack" : "kmartinez@codestack.co",
+            "email": "kmartinez@sjcoe.net"
         },
         {
             "firstName": "Jacob",
-            "lastName" : "Dekok"
+            "lastName" : "Dekok",
+            "codeStack" : "jdekok@codestack.co",
+            "email": "jdekok@sjcoe.net"
         }
     ]
 }
