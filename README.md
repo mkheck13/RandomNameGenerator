@@ -10,6 +10,6 @@
 
 ### Peer Review:
 
-#### **Name**:
+#### **Name**: David Monterrosa
 
-#### **Comments**:
+#### **Comments**: Overall the code meets the design specifications of the challenge. The button works as expected. You should try to show only the previous 5 names generated since, we can already see the current generated name. Also consider ordering the names with more recently generated names at the top and the older generated names at the botto of the screen.
